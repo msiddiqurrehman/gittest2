@@ -1,4 +1,6 @@
 Hi
 this is my first file.
-this file is to test git.
-this is initial content before git init.
+this file is to test git. this text is being added from branch2
+this is line is being changed from branch 2.
+this line is being added from branch2.
+thanks
