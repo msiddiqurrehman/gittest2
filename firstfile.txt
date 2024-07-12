@@ -1,12 +1,9 @@
 Hi
 this is my first file.
-<<<<<<< HEAD
 this file is to test git. from here this text is being appanded to this line in branch1.
 this is line has been changed in branch 1.
 this line is being added in branch1.
-=======
 this file is to test git. this text is being added from branch2
 this is line is being changed from branch 2.
 this line is being added from branch2.
 thanks
->>>>>>> branch2
