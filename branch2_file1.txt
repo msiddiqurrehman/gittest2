@@ -1,0 +1,4 @@
+Hi
+this is branch2 file.
+this is again to test git branches.
+thanks
