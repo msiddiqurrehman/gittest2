@@ -1,0 +1,4 @@
+Hi
+this is my first file.
+this file is to test git.
+this is initial content before git init.

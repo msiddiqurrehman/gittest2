@@ -1,0 +1,4 @@
+Hi
+this is second file.
+this is also to test git.
+this is also before git init.
